@@ -1,0 +1,11 @@
+npm install : installs the dependencies for the project
+
+npm run dev : starts the development server, allows us to view the pages made with NextJS
+
+npx create-next-app : creates a new NextJS project in the current directory
+
+npm create-react-app : creates a new ReactJS app in the current directory
+
+cd [directory] : changes to the specified directory
+
+npm start : also starts the dev server for ReactJS
